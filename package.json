@@ -1,0 +1,15 @@
+{
+  "name": "action-stack",
+  "version": "0.0.1",
+  "description": "memorize actions in a stack structure data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "action",
+    "stack"
+  ],
+  "author": "Michele Diegoli",
+  "license": "ISC"
+}
